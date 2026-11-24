@@ -1,0 +1,6 @@
+{
+  "name": "BhashaSaathi – Your Local Business Assistant",
+  "description": "Voice-first multilingual AI business assistant for Indian shopkeepers, kirana stores, and local retailers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
